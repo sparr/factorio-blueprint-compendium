@@ -1,0 +1,3 @@
+[submodule "scripts/submodules/python-factorio"]
+	path = scripts/submodules/python-factorio
+	url = https://github.com/sparr/python-factorio.git

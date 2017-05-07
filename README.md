@@ -4,7 +4,7 @@ This repository contains community-contributed "best of breed" examples of a wid
 
 ## Getting Started
 
-The [exchange](exchange/) directory contains exchange strings for individual blueprints as well as blueprint books for each subdirectory.
+The [blueprints](blueprints/) directory contains exchange strings for individual blueprints as well as blueprint books for each subdirectory.
 
 If you want to contribute to the compendium, see "Installing" below.
 
